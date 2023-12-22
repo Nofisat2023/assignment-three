@@ -57,7 +57,7 @@ body{
     padding-block-start: 60px;
     padding-inline-start: 50px;
     width: 600px;
-    height: 99vh;
+    height: 100vh;
 }
 
 .container .left-box header h1{
@@ -122,15 +122,18 @@ body{
 .card-details {
     display: flex;
     align-items: center;
+    margin-top: 10px;
+    background-color: #eceaea;
+    border: #eae8e8 solid 1px;
+    width: 500px;
 }
 
 .card-details input{
-    background-color: #eceaea;
-    margin: 10px 0 ;
+    
+    margin: 4px 0 ;
     padding: 5px;
-    color: #f7f8f9;
     border: none;
-    border-radius: 2px;
+    background-color: #eceaea;
 }
 
 .card-details .card-number{
@@ -191,7 +194,7 @@ button{
 .container .sidebar{
     background-color: rgba(17, 121, 191, 1);
     width: 312px;
-    height: 99vh;
+    height: 100vh;
 }
 
 .container .sidebar .sidebar-content{
