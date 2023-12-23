@@ -57,7 +57,7 @@ body{
     padding-block-start: 60px;
     padding-inline-start: 50px;
     width: 600px;
-    max-height: 100vh;
+    min-height: 100vh;
 }
 
 .container .left-box header h1{
@@ -194,7 +194,7 @@ button{
 .container .sidebar{
     background-color: rgba(17, 121, 191, 1);
     width: 312px;
-    max-height: 100vh;
+    min-height: 100vh;
 }
 
 .container .sidebar .sidebar-content{
