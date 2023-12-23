@@ -46,7 +46,7 @@ body{
     margin: 0 auto;
     box-shadow: black;
     width: 892px;
-    height: 100vh;
+    height: auto;
     display: flex;
     justify-content: center;
     align-content: center;
