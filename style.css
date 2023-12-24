@@ -56,7 +56,6 @@ body{
     padding-block-start: 60px;
     padding-inline-start: 50px;
     width: 600px;
-    /* min-height: 100vh; */
 }
 
 .container .left-box header h1{
@@ -65,9 +64,6 @@ body{
     font-family: Roboto;
     text-shadow: 2px 2px 4px rgba(43, 64, 78, 0.1);
 }
-
-
-
 
 .container .left-box .box{
     border: 3px rgb(178, 178, 238) solid;
@@ -124,7 +120,6 @@ body{
     padding-block-start: 15px;
     padding-block-end: 14px;
 }
-
 
 .card-details {
     display: flex;
